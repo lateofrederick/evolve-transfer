@@ -1,0 +1,6 @@
+.venv
+spike.py
+dist
+.idea
+*.pyc
+db.sqlite3
